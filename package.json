@@ -1,0 +1,12 @@
+{
+    "name": "pokedex",
+    "homepage": "https://InesBarone.github.io/nexos/",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "deploy": "gh-pages -d build"
+    },
+    "dependencies": {
+        "gh-pages": "^5.0.0"
+    }
+}
